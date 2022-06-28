@@ -2,7 +2,7 @@
 title: "Test Markdown File for Git"
 author: "Chitra M Saraswati"
 date: '2022-06-28'
-output: html_document
+output: github_document
 ---
 
 This is a test Rmd file for Git.
